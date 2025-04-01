@@ -7,7 +7,7 @@
 Smoking remains a significant global public health problem. This study addresses the prediction of smoking behavior using individual-level factors (age, gender, income) and regional variation. We propose three Bayesian hierarchical models to disentangle the determinants of smoking.
 
 ## Data
-The dataset, sourced from Kaggle ([source](https://www.kaggle.com/datasets/mohibali/smoking-data-from-uk)), includes 1691 observations with demographic and socioeconomic variables. Preprocessing involved removing incomplete entries and converting categorical variables to factors.
+The dataset, sourced from Kaggle ([source]((https://www.kaggle.com/datasets/utkarshx27/smoking-dataset-from-uk/data))), includes 1691 observations with demographic and socioeconomic variables. Preprocessing involved removing incomplete entries and converting categorical variables to factors.
 
 ### Demographic Distribution
 ![Age Group Distribution](figures/age%20group.jpeg)  
@@ -98,7 +98,7 @@ Model 3 effectively captures regional and educational influences on smoking, off
 - **Reproducible**: Includes R scripts, preprocessed data, and model outputs.
 - **Visual-Driven**: Uses plots to highlight demographic trends and model diagnostics.
 - **Practical**: Code and report provide a template for Bayesian public health analytics.
-- 
+  
 ## Appendix
 ### Trace Plots
 ![Model 1 Traceplot](figures/traceplot1.png)  
