@@ -1,5 +1,4 @@
-# Bayesian-Approach-For-Smoking-Prediction-
-# Smoking Prediction Using Hierarchical Model
+# Bayesian Approach For Smoking Prediction
 
 ## Introduction
 Smoking remains a significant global public health problem. This study addresses the prediction of smoking behavior using individual-level factors (age, gender, income) and regional variation. We propose three Bayesian hierarchical models to disentangle the determinants of smoking.
