@@ -106,4 +106,4 @@ Model 3 effectively captures regional and educational influences on smoking, off
 
 ---
 
-*Note: Equations and some formatting may require LaTeX rendering.*
+
