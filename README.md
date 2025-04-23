@@ -91,13 +91,7 @@ All models showed R̂ ≈ 1, indicating convergence. Trace plots and posterior p
 ## Conclusion
 Model 3 effectively captures regional and educational influences on smoking, offering the best predictive accuracy.
 
----
 
-### Highlights:
-- **Bayesian Focus**: Leverages hierarchical modeling to capture regional and individual effects.
-- **Reproducible**: Includes R scripts, preprocessed data, and model outputs.
-- **Visual-Driven**: Uses plots to highlight demographic trends and model diagnostics.
-- **Practical**: Code and report provide a template for Bayesian public health analytics.
   
 ## Appendix
 ### Trace Plots
